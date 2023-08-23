@@ -1,0 +1,30 @@
+h1,
+p {
+  font-family: Lato;
+  color: cadetblue;
+}
+
+a {
+  cursor: pointer;
+}
+
+#page {
+  height: 40px;
+  width: 100px;
+  border: 1px solid #dbdbdb;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px #dfdfdf;
+  margin-right: 5px;
+}
+
+#page1 {
+  height: 40px;
+  width: 100px;
+  border: 1px solid #dbdbdb;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px #dbdbdb;
+  background-color: #878787;
+  color: white;
+}
